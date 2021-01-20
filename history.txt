@@ -1,0 +1,232 @@
+    1  git --version
+    2  git config --global user.name "Sundar Kumar Satyala"
+    3  git config --global user.email sundarkumarsatyala@gmail.com
+    4  code
+    5  git conig --global e
+    6  git conig --global -e
+    7  git conig --global -e
+    8  git conig --global code
+    9  exit
+   10  git conig --global code
+   11  git conig --global -code
+   12  code 
+   13  code 
+   14  git config --global core.editor "code --wait"
+   15  git conig --global -e
+   16  git conig --global core.autocrlf true
+   17  git conig --global core.autocrlf input
+   18  git conig --global core.autocrlf true
+   19  psversiontable
+   20  mkdir moon
+   21  cd moon
+   22  git init
+   23  ls
+   24  ls -a
+   25  open .git
+   26  echo hello > file.txt
+   27  echo hello > file1.txt
+   28  echo hello > file2.txt
+   29  git status
+   30  git add file*.txt
+   31  git status
+   32  echo austin >> file1.txt
+   33  git status
+   34  git add file*.txt
+   35  git status
+   36  git commit
+   37  git status
+   38  git ls-files
+   39  git status
+   40  git status -s
+   41  echo austin >> file.txt
+   42  git status -s
+   43  add file.txt
+   44  git add file.txt
+   45  git status -s
+   46  echo austin2 >> file.txt
+   47  git status -s
+   48  git config --global diff.tool vscode
+   49  git conig --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+   50  git conFig --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+   51  git config --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+   52  git config --global -e
+   53  git diftool
+   54  git difftool
+   55  git difftool --staged
+   56  log
+   57  logs
+   58  git log
+   59  git push
+   60  ssh-keygen -t rsa -b 4096 -C sundarkumarsatyala@gmail.com
+   61  ls
+   62  ls | grep testkey
+   63  cat testkey.pub
+   64  ssh -T sundarkumarsatyala@gmail.com
+   65  ssh -T git@github.com
+   66  eval 'ssh-agent-s'
+   67  eval "ssh-agent-s"
+   68  eval "$(ssh-agent -s)"
+   69  ssh-add ~/.ssh/id_rsa
+   70  ssh-add -K ~/.ssh/id_rsa
+  119  ssh-add -K ~/.ssh/id_rsa
+  120  ssh-add -K ~/.ssh/id_rsa
+  121  ssh-add -K ~/.ssh/id_rsa
+  122  ssh-add ~/.ssh/id_rsa
+  123  ssh-add ~/.ssh/testkey
+  124  ssh-add ~/m.ssh/testkey.pub
+  125  ssh-add ~/moon/.ssh/id_rsa
+  126  git init
+  127  ls -a
+  128  rd C:\Users\Sundar\.git
+  129  rd-help
+  130  rd -help
+  131  cd Moon
+  132  git init
+  133  git status-S
+  134  git status \-S
+  135  git status -S
+  136  git status -s
+  137  git add file*.txt
+  138  git status -s
+  139  history
+  140  history > history.txt
+  141  git conig --global -e
+  142  git config --global -e
+  143  git conig --global code
+  144  git config --global code
+  145  git config --global code 
+  146  git config --global core.autocrlf true
+  147  git config --global -e
+  148  open git
+  149  open .git
+  150  ls -a
+  151  ls
+  152  git status
+  153  git status -s
+  154  git diftool --staged
+  155  git difftool --staged
+  156  git status -s
+  157  git difftool
+  158  log
+  159  logs
+  160  git log
+  161  psversiontable
+  162  git push
+  163  ls
+  164  ls -aa
+  165  ls grep
+  166  ls | grep testkey
+  167  eval "ssh-agent -s"
+  168  ssh-add ~/.ssh/testkey
+  169  ssh-add ~/moon/.ssh/testkey
+  170  ssh-add ~/Moon/.ssh/
+  171  ssh-add ~/.ssh/testkey
+  172  ssh-add ~/.ssh/id_rsa
+  173  exec ssh-agent bash
+  174  eval ssh-agent -s
+  175  ssh-add ~/.ssh/id_rsa
+  176  ssh-add ~/.ssh/testkey
+  177  ssh-add ~/.ssh/testkey.pub
+  178  ssh-add ~/moon/.ssh/testkey.pub
+  179  ssh-add ~/.ssh/id_rsa.pub
+  180  ssh-keygen -t rsa -b 4096 -C sundarkumarsatyala@gmail.com
+  181  cat onetwenty
+  182  cat onetwenty.pub
+  183  asdf
+  184  ~     1  git --version
+  185      2  git config --global user.name "Sundar Kumar Satyala"
+  186      3  git config --global user.email sundarkumarsatyala@gmail.com
+  187      4  code
+  188      5  git conig --global e
+  189      6  git conig --global -e
+  190      7  git conig --global -e
+  191      8  git conig --global code
+  192      9  exit
+  193     10  git conig --global code
+  194     11  git conig --global -code
+  195     12  code 
+  196     13  code 
+  197     14  git config --global core.editor "code --wait"
+  198     15  git conig --global -e
+  199     16  git conig --global core.autocrlf true
+  200     17  git conig --global core.autocrlf input
+  201     18  git conig --global core.autocrlf true
+  202     19  psversiontable
+  203     20  mkdir moon
+  204     21  cd moon
+  205     22  git init
+  206     23  ls
+  207     24  ls -a
+  208     25  open .git
+  209     26  echo hello > file.txt
+  210     27  echo hello > file1.txt
+  211     28  echo hello > file2.txt
+  212     29  git status
+  213     30  git add file*.txt
+  214     31  git status
+  215     32  echo austin >> file1.txt
+  216     33  git status
+  217     34  git add file*.txt
+  218     35  git status
+  219     36  git commit
+  220     37  git status
+  221     38  git ls-files
+  222* 
+  223     40  git status -s
+  224     41  echo austin >> file.txt
+  225     42  git status -s
+  226     43  add file.txt
+  227     44  git add file.txt
+  228     45  git status -s
+  229     46  echo austin2 >> file.txt
+  230     47  git status -s
+  231     48  git config --global diff.tool vscode
+  232     49  git conig --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+  233     50  git conFig --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+  234     51  git config --global difftool.vscode.cmd "code --wait --diff $LOGO $REMOTE"
+  235     52  git config --global -e
+  236     53  git diftool
+  237     54  git difftool
+  238     55  git difftool --staged
+  239     56  log
+  240     57  logs
+  241     58  git log
+  242     59  git push
+  243     60  ssh-keygen -t rsa -b 4096 -C sundarkumarsatyala@gmail.com
+  244     61  ls
+  245     62  ls | grep testkey
+  246     63  cat testkey.pub
+  247     64  ssh -T sundarkumarsatyala@gmail.com
+  248     65  ssh -T git@github.com
+  249     66  eval 'ssh-agent-s'
+  250     67  eval "ssh-agent-s"
+  251     68  eval "$(ssh-agent -s)"
+  252     69  ssh-add ~/.ssh/id_rsa
+  253     70  ssh-add -K ~/.ssh/id_rsa
+  254     71  b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAACFwAAAAdzc2gtcn
+  255     72  NhAAAAAwEAAQAAAgEAoCCYS/gwI7duvhf2IeFoJMz2stG5DNMw5s2pscSyT0eEgISEX/77
+  256     73  2e9isZyus5gZoRMUGpcyrIMuyxg/Gt/gQhuT42hqtYTQYTutjnjvtmbsnrWpq56JnktIq8
+  257  ssh-keygen -t rsa -b 4096 -C sundarkumarsatyala@gmail.com
+  258  ls -a
+  259  cd moon
+  260  ssh-keygen -t rsa -b 4096 -C sundarkumarsatyala@gmail.com
+  261  cat twotwenty.pub
+  262  ~ pbcopy < ~/moon/twotwenty.pub
+  263  ~ pbcopy < ~/twotwenty.pub
+  264  pbcopy < ~/moon/twotwenty.pub
+  265  eval ssh-agent -s
+  266  ssh-add ~/moon/twotwenty
+  267  ssh-add ~/moon/.ssh/twotwenty
+  268  ssh-add ~/twotwenty
+  269  eval $(ssh-agent)
+  270  ssh-add ~/moon/twotwenty
+  271  git push origin master
+  272  git push moon master
+  273  git push HEAD master
+  274  git push demo master
+  275  git init
+  276  clear
+  277  git remote add origin https://github.com/sundarkumarsatyala/demo-repo2.git
+  278  git remote -v
+  279  git push origin master
+  280  history > history.txt
